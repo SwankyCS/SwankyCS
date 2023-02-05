@@ -5,5 +5,5 @@ In November 2022 I joined a bootcamp and began studying. I have loved every minu
 
 ---
 
-🌱 Study:    Studying towards a Certificate of Cyber Security with the Monash University Cyber Security Bootcamp
+🌱 Study: &emsp; Studying towards a Certificate of Cyber Security with the Monash University Cyber Security Bootcamp <br />
 ⚡ Goal:     An aspiring Penetration Tester
