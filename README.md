@@ -16,5 +16,6 @@
 ---
 
 #### I am Learning
-Shell (Bash & Powershell)
+<div style="background-color: blue; width: 100px; height: 100px;"></div>
+Shell (Bash & Powershell) <br />
 Python
