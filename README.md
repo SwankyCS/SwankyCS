@@ -16,6 +16,5 @@
 ---
 
 #### I am Learning
-<div style="background-color: blue; width: 100px; height: 100px;"></div>
-Shell (Bash & Powershell) <br />
-Python
+Shell (Bash and Powershell) <br />
+<img src="https://www.python.org/static/img/python-logo.png" width=15% height=15%> <br />
