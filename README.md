@@ -16,3 +16,5 @@
 ---
 
 #### I am Learning
+Shell (Bash & Powershell)
+Python
