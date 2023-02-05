@@ -1,15 +1,9 @@
-### Hi there 👋
+### **Hi everyone**
+**Why I am here**
+In June 2022 I was talking with friends about how interesting Cyber Security is and how we would love to be able to do the things that we see, read and hear about the professionals of the industry doing. It was here that I made an impulsive decision to jump in, with no knowledge or experience in any of the Cyber Security domains.
+In November 2022 I joined a bootcamp and began studying. I have loved every minute to date and look forward to any opportunities that may come. 
 
-<!--
-**SwankyCS/SwankyCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently studying Cyber Security, with a keen interest in Penetration Testing
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+<-!
+- 🌱 Study:    Studying towards a Certificate of Cyber Security with the Monash University Cyber Security Bootcamp
+- ⚡ Goal:     An aspiring Penetration Tester
 -->
