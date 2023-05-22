@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="" width="600" height="300"/>
-</div>
-<br><br>
 <div id="badges">
   <a href="https://www.linkedin.com/in/ben-tonissen-mcgrath-22bb4a5b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,7 +9,7 @@
 
 ---
     
-### About me <br />
+### About me 
 
 I am a cybersecurity enthusiast and graduate of the Monash Cyber Security Bootcamp. <br>
 I am looking to transition into the Cybersecurity industry. <br>
