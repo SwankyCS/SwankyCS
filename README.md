@@ -1,6 +1,34 @@
+<div align="center">
+  <img src="" width="600" height="300"/>
+</div>
+<br><br>
 <div id="badges">
   <a href="https://www.linkedin.com/in/ben-tonissen-mcgrath-22bb4a5b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://tryhackme.com/p/Swankypants/">
+    <img src="https://img.shields.io/badge/TryHackMe-0E4D92?style=flat&logo=TryHackMe"/>
+  </a>
+</div>
 
+---
+    
 ### About me <br />
+
+I am a cybersecurity enthusiast and graduate of the Monash Cyber Security Bootcamp. <br>
+I am looking to transition into the Cybersecurity industry. <br>
+My goal is to be a Penetration Tester. <br>
+
+---
+
+### Languages and Tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  place holder: NMAP, Metasploit, Zenmap, Burpsuite
+</div>
+
+
+#### Learning
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+</div>
