@@ -1,5 +1,4 @@
-### **Hi everyone and welcome to my page** :wave:
-**About me** <br />
+### About me <br />
 
 
 ---
