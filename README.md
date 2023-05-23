@@ -28,7 +28,21 @@ My goal is to be a Penetration Tester. <br>
 ---
 
 ### Tools that I am Learning
-place holder: NMAP, Metasploit, Zenmap, Burpsuite
+<div id="badges">
+  <a href="">
+    <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Metasploit-4682B4?style=flat" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Zenmap-4682B4?style=flat" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Burpsuite-4682B4?style=flat" />
+  </a>
+    
+</div>
 
 ---
 
