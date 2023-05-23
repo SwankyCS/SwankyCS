@@ -1,11 +1,11 @@
-## Welcome :wave:
+# Welcome :wave:
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/ben-tonissen-mcgrath-22bb4a5b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://tryhackme.com/p/Swankypants/">
     <img src="https://img.shields.io/badge/TryHackMe-0E4D92?style=flat&logo=TryHackMe"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ben-tonissen-mcgrath-22bb4a5b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
@@ -13,9 +13,8 @@
     
 ### About Me
 
-I am a cybersecurity enthusiast and graduate of the Monash Cyber Security Bootcamp. <br>
-I am looking to transition into the Cybersecurity industry. <br>
-My goal is to be a Penetration Tester. <br>
+I am a Cybersecurity enthusiast and graduate of the Monash Cyber Security Bootcamp. <br>
+I am looking to transition into the Cybersecurity industry and my goal is to be a Penetration Tester. <br>
 
 ---
 
@@ -27,22 +26,32 @@ My goal is to be a Penetration Tester. <br>
 
 ---
 
-### Tools that I am Learning
-<div id="badges">
+### Tools that I use
+
+<div id="badges">  
+  Networking:
   <a href="">
-    <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat" />
+    <img src="https://img.shields.io/badge/Nmap-27AE60?style=flat" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Metasploit-4682B4?style=flat" />
+    <img src="https://img.shields.io/badge/Zenmap-2980B9?style=flat" />
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Zenmap-4682B4?style=flat" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Burpsuite-4682B4?style=flat" />
-  </a>
-    
 </div>
 
+<div id="badges">
+  Offesive Security:
+  <a href="">
+    <img src="https://img.shields.io/badge/Metasploit-9B59B6?style=flat" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Burpsuite-1ABC9C?style=flat" />
+  </a>
+</div>
+
+Defensive Security: Splunk
+
 ---
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SwankyCS&theme=prussian" alt="mystreak"/>
+
 
