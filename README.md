@@ -32,20 +32,20 @@ I like poking and prodding at systems, so my goal to become a Penetration Tester
 <div id="badges">  
   Networking:
   <a href="">
-    <img src="https://img.shields.io/badge/Nmap-27AE60?style=flat" />
+    <img src="https://img.shields.io/badge/Nmap-2874A6?style=flat" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Zenmap-2980B9?style=flat" />
+    <img src="https://img.shields.io/badge/Zenmap-2E86C1?style=flat" />
   </a>
 </div>
 
 <div id="badges">
   Offesive Security:
   <a href="">
-    <img src="https://img.shields.io/badge/Metasploit-9B59B6?style=flat" />
+    <img src="https://img.shields.io/badge/Metasploit-3498DB?style=flat" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Burpsuite-1ABC9C?style=flat" />
+    <img src="https://img.shields.io/badge/Burpsuite-5DADE2?style=flat" />
   </a>
 </div>
 
