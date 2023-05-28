@@ -14,8 +14,8 @@
 ### About Me
 
 I am a Cybersecurity enthusiast and graduate of the Monash Cyber Security Bootcamp. <br>
-I am looking to transition into the Cybersecurity industry to apply my skills and knowledge from the bootcamp into real-world scenarios. <br>
-I like poking and prodding at systems, so my goal to become a Penetration Tester seems fitting. <br>
+I am looking to transition into the Cybersecurity industry so that I can apply and further enhance my knowledge and practical skills obtained from the bootcamp. <br>
+I have an analytical mindset in the way I approach activites and challenges and I hope to apply this in the role of a penetration tester. <br>
 
 ---
 
