@@ -6,8 +6,7 @@
 ### About Me
 
 ▶️Cybersecurity enthusiast and graduate of a Cyber Security Bootcamp <br>
-▶️Looking to transition into the Cybersecurity industry so that I can apply and further enhance my knowledge and practical skills <br>
-▶️I have an analytical mindset in the way I approach activites and challenges and I hope to apply this in the role of a penetration tester <br>
+▶️Looking to transition into the Cybersecurity industry so that I can apply and enhance my knowledge and practical skills <br>
 
 ---
 
