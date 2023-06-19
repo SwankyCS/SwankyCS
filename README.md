@@ -20,6 +20,10 @@
   </a>
 </div>
 
+  <a href="https://www.credly.com/badges/3994da1a-5af6-46ac-b0e6-6f152aa2d2d2/public_url">
+    <img src="https://images.credly.com/images/42141227-82a6-4180-a291-531084eb472f/Cybersecurity_badge.png" alt="Monash" style="width: 90px; height: 90px;"/>
+  </a>
+
 ---
 
 
