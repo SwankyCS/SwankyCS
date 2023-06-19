@@ -1,5 +1,5 @@
 
-<b>👷‍♂️Readme Under Devlopment<b><br>
+<b>👷‍♂️Readme Under Devlopment👷‍♂️<b><br>
 
 # Welcome
  
@@ -32,10 +32,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-
-  
 </div>
 
+▶️Bash: Intermediate <br>
+▶️Python: Beginner <br>
 
 ---
 
