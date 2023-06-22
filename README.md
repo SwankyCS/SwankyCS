@@ -1,6 +1,4 @@
 
-<b>👷‍♂️Readme Under Devlopment👷‍♂️<b><br>
-
 # Welcome
  
 ### About Me
@@ -44,5 +42,4 @@
 
 ---
 
-### Projects
 
