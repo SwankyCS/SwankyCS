@@ -3,7 +3,7 @@
  
 ### About Me
 
-▶️Cybersecurity enthusiast and graduate of a Cyber Security Bootcamp <br>
+▶️Cybersecurity enthusiast and graduate of the Monash University Cybersecurity Bootcamp <br>
 ▶️Looking to transition into the Cybersecurity industry so that I can apply and enhance my knowledge and practical skills <br>
 
 ---
